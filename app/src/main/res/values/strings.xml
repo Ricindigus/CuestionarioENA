@@ -1,0 +1,110 @@
+<resources>
+
+    <string name="titulo_encuesta">ENCUESTA NACIONAL AGROPECUARIA 2017</string>
+    <string name="titulo_curso">CURSO DE CAPACITACION DE INSTRUCTORES/AS</string>
+    <string name="app_name">Curso de Capacitación ENA 2017</string>
+
+    <!--MODULO-->
+    <string name="control01_nombre">PRIMER CONTROL DE LECTURA</string>
+    <string name="control02_nombre">SEGUNDO CONTROL DE LECTURA</string>
+    <string name="control03_nombre">TERCER CONTROL DE LECTURA</string>
+    <string name="control04_nombre">CUARTO CONTROL DE LECTURA</string>
+    <string name="control05_nombre">QUINTO CONTROL DE LECTURA</string>
+    <string name="control06_nombre">SEXTO CONTROL DE LECTURA</string>
+    <string name="control07_nombre">SEPTIMO CONTROL DE LECTURA</string>
+    <string name="control08_nombre">OCTAVO CONTROL DE LECTURA</string>
+    <string name="control09_nombre">NOVENO CONTROL DE LECTURA</string>
+    <string name="control10_nombre">DECIMO CONTROL DE LECTURA</string>
+
+
+    <!-- CONTROL 01 -->
+    <string name="control01_p01">1. ¿Cuál de las siguientes alternativas no corresponde a los documentos auxiliares de muestreo?</string>
+    <string name="control01_p01_op01">a) Doc.03.07 "Mapa distrital"</string>
+    <string name="control01_p01_op02">b) Doc.08.08 "Plan de recorrido"</string>
+    <string name="control01_p01_op03">c) Doc.03.05 "Croquis del conglomerado seleccionado"</string>
+    <string name="control01_p01_op04">d) Doc.03.03 "Listado de unidades agropecuarias seleccionadas en el conglomerado"</string>
+    <string name="control01_p01_op05">e) Doc.03.03.01 "Listado de unidades agropecuarias del conglomerado seleccionado"</string>
+
+    <string name="control01_p02">2. ¿Cuál de las siguientes alternativas no corresponde al resultado final de la encuesta?</string>
+    <string name="control01_p02_op01">a) No se inició la entrevista</string>
+    <string name="control01_p02_op02">b) Fuera del distrito</string>
+    <string name="control01_p02_op03">c) Sin actividad</string>
+    <string name="control01_p02_op04">d) Solo fábrica</string>
+    <string name="control01_p02_op05">e) No ubicada</string>
+
+    <string name="control01_p03">3. En la Encuesta Nacional Agropecuaria se realizarán 2 tipos de encuestas, con sus respectivos instrumentos de recolección de información:</string>
+    <string name="control01_p03_op01">a) Doc.03.01. "Cuestionario electrónico dirigido a pequeños/as y medianos/as productores/as agropecuarios/as" y Doc.03.01A. "Cuestionario electrónico dirigido a empresas y grandes productores/as"</string>
+    <string name="control01_p03_op02">b) Doc.01.03. "Cuestionario electrónico dirigido a pequeños/as y medianos/as productores/as agropecuarios/as" y Doc.01.03A. "Cuestionario electrónico dirigido a empresas y grandes productores/as"</string>
+    <string name="control01_p03_op03">c) Doc.03.03. "Cuestionario electrónico dirigido a pequeños/as y medianos/as productores/as agropecuarios/as" y Doc.03.03A. "Cuestionario electrónico dirigido a empresas y grandes productores/as"</string>
+    <string name="control01_p03_op04">d) Doc.03.05. "Cuestionario electrónico dirigido a pequeños/as y medianos/as productores/as agropecuarios/as" y Doc.03.05A. "Cuestionario electrónico dirigido a empresas y grandes productores/as"</string>
+
+    <string name="control01_p04">4. Escriba "V" si es verdadero ó "F" si es falso:</string>
+    <string name="control01_p04_sub01">a) El coordinador/a departamental depende de la dirección departamental o Zonal de Estadística e Informática es responsable de organizar, dirigir, supervisar, evaluar y coordinar la ejecución de la encuesta en lo que respecta al trabajo de campo.</string>
+    <string name="control01_p04_sub02">b) El encuestador/a es la persona que proporciona los datos requeridos para la encuesta.</string>
+    <string name="control01_p04_sub03">c) Durante la operación de campo el encuestador/a debe reconocer, ubicar e identificar los límites del conglomerado asignado con ayuda de los documentos cartográficos y listados.</string>
+    <string name="control01_p04_sub04">d) No se consideran unidades agropecuarias cuando una de las parcelas fue dada en concesión para la extracción de productos naturales, ya sean vegetales (castaña, uña de gato) o animales de monte.</string>
+    <string name="control01_p04_sub05">e) La unidad agropecuaria está fusionada cuando todas las parcelas que la conforman son absorbidas por otra unidad agropecuaria seleccionada.</string>
+    <string name="control01_p04_sub06">f) Encuestador, en caso de ausencia del productor/a agropecuario/a entregue el Oficio, indicando fecha y hora en que retornará a la unidad agropecuaria.</string>
+    <string name="control01_p04_sub07">g) El productor/a agropecuario/a siempre debe ser entrevistado en la unidad agropecuaria.</string>
+    <string name="control01_p04_sub08">h) Tener presente que el tipo de informante (productor/a, administrador/a, encargado/a, familiar) se refiere a el nombre de quién da la información.</string>
+    <string name="control01_p04_sub09">i) Antes de iniciar la operación de campo el encuestador/a debe reconocer, ubicar e identificar los límites del conglomerado asignado con ayuda de los documentos cartográficos y listados.</string>
+    <string name="control01_p04_sub10">j) Dentro del menú de configuración de la tablet, los ajustes más utilizados son: Aplicaciones y fecha y hora.</string>
+
+    <string name="control01_p05">5. Relaciona las siguientes definiciones:</string>
+    <string name="control01_p05_sub01">A) Brindar información estadística actualizada que permita caracterizar a las pequeñas, medianas y grandes unidades agropecuarias del país.</string>
+    <string name="control01_p05_sub02">B) Disponer de información estadística que permita caracterizar a las pequeñas, medianas y grandes unidades agropecuarias del país.</string>
+    <string name="control01_p05_sub03">C) Es el documento que contiene las imágenes representativas de las preguntas de los principales capítulos desde el 100 hasta el 1200.</string>
+    <string name="control01_p05_sub04">D) Es el documento que contiene los casos representativos de los principales capítulos desde el 100 hasta el 1200.</string>
+
+    <string name="control01_p05_op01">1. Objetivos</string>
+    <string name="control01_p05_op02">2. Finalidad</string>
+    <string name="control01_p05_op03">3. Doc.08.25 Anexo B</string>
+    <string name="control01_p05_op04">4. Doc.08.07 Anexo A</string>
+
+    <!-- CONTROL 02 -->
+    <string name="control02_p01">A. Anote, dentro del paréntesis verdadero "V" o falso "F" según corresponda:</string>
+    <string name="control02_p01_sub01">1) Dedicarse a la actividad agropecuaria de manera independiente, es cuando una persona se dedica a las actividades agrícolas y/o pecuarias desempeñándose como peón.</string>
+    <string name="control02_p01_sub02">2) No realizó actividad, es aquella unidad agropecuaria que por un periodo menor a los últimos 12 meses no está siendo trabajada por un productor/a agropecuario/a pero en cualquier momento puede ser trabajada.</string>
+    <string name="control02_p01_sub03">3) Unidad agropecuaria sin tierra, cuando la unidad agropecuaria no posee tierras, caso que se da con los productores/as pecuarios/as.</string>
+    <string name="control02_p01_sub04">4) Anticresis, corresponde al caso en que el productor/a utiliza terrenos de un tercero, sin mediar algún tipo de contraprestación.</string>
+    <string name="control02_p01_sub05">5) Se llama cultivo permanente, a los cultivos cuyo ciclo vegetativo o de crecimiento (para obtener una cosecha) es menor de un año y al terminar de cosechar se destruyen totalmente las plantas.</string>
+    <string name="control02_p01_sub06">6) El limón ácido, plátano y lúcumo son ejemplos de cultivos permanentes de cosecha contínua.</string>
+    <string name="control02_p01_sub07">7) Si el productor/a manifiesta que la fuente principal de agua que empleó en sus cultivos procede de un puquial u ojo de agua, seleccione la alternativa Pozo/agua subterránea.</string>
+    <string name="control02_p01_sub08">8) El sistema de riego por aspersión artesanal es considerado en la alternativa "Otro".</string>
+    <string name="control02_p01_sub09">9) El riego por Mangas también conocido como riego por caudal intermitente, riego por impulsos o pulsos.</string>
+    <string name="control02_p01_sub10">10) La producción perdida o afectada, es la parte de la producción que se pierde en post cosecha, por el manipuleo del producto, sobremaduración, etc.</string>
+    <string name="control02_p01_sub11">11) El comerciante minorista es quien vende directamente al consumidor final.</string>
+    <string name="control02_p01_sub12">12) Desgaste del suelo por lluvias intensas, es cuando el suelo está muy desgastado y pierde su capacidad de producción, se le conoce como suelo pobre.</string>
+    <string name="control02_p01_sub13">12) El riego por aspersión es el sistema que posibilita aplicar el agua en forma de lluvia fina y suave.</string>
+
+    <string name="control02_p02">B. Relaciona las siguientes definiciones:</string>
+    <string name="control02_p02_sub01">1) Conjunto de pasadas, recojos, etc. sucesivos que se realizan durante el periodo de cosecha para recolectar o recoger el fruto.</string>
+    <string name="control02_p02_sub02">2) Cultivos cosechados por lo general en un periodo determinado del año, en estos casos el periodo de cosecha suele durar más de un mes.</string>
+    <string name="control02_p02_sub03">3) Cuando dos o más cultivos son sembrados en una misma superficie de forma intercalada o guardando cierta proporcionalidad.</string>
+    <string name="control02_p02_sub04">4) ConjuntoPeriodo de tiempo a lo largo de un año, que comprende desde la siembra del cultivo (pasando por el crecimiento, producción de flores y frutos) hasta la cosecha o recolección del mismo.</string>
+    <string name="control02_p02_sub05">5) Consiste en la determinación de la siembra o plantación de los cultivos en la unidad agropecuaria, en función a ciertos criterios como; características del suelo (profundidad y tipo), clima de la zona, disponibilidad de agua e inclinación de la parcela.</string>
+    <string name="control02_p02_sub06">6) Cultivo que es cosechado durante todo el año con una frecuencia constante, es decir semanalmente, quincenalmente, mensualmente, etc.</string>
+    <string name="control02_p02_sub07">7) Es la parte de la producción que se destina a la transformación primaria, ejemplo: chuño, vino, mermelada.</string>
+
+    <string name="control02_p02_op01">1. Orientación de siembras</string>
+    <string name="control02_p02_op02">2. Cultivo permanente de cosecha continua</string>
+    <string name="control02_p02_op03">3. Periodo vegetativo</string>
+    <string name="control02_p02_op04">4. Derivados</string>
+    <string name="control02_p02_op05">5. Asociado</string>
+    <string name="control02_p02_op06">6. Cultivo permanente de cosecha estacional</string>
+    <string name="control02_p02_op07">7. Pañas</string>
+
+    <string name="verdadero">VERDADERO</string>
+    <string name="falso">FALSO</string>
+    <string name="nombre_menu">MENU CONTROL DE LECTURA</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="cuestionario1_pregunta_5_opciones">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+</resources>

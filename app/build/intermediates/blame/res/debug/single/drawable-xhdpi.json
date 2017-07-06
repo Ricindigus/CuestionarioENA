@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\ProyectosAndroidStudio\\CuestionarioENA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_splash.png",
+        "source": "D:\\ProyectosAndroidStudio\\CuestionarioENA\\app\\src\\main\\res\\drawable-xhdpi\\logo_splash.png"
+    },
+    {
+        "merged": "D:\\ProyectosAndroidStudio\\CuestionarioENA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\flecha_atras.png",
+        "source": "D:\\ProyectosAndroidStudio\\CuestionarioENA\\app\\src\\main\\res\\drawable-xhdpi\\flecha_atras.png"
+    },
+    {
+        "merged": "D:\\ProyectosAndroidStudio\\CuestionarioENA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logoinei.png",
+        "source": "D:\\ProyectosAndroidStudio\\CuestionarioENA\\app\\src\\main\\res\\drawable-xhdpi\\logoinei.png"
+    },
+    {
+        "merged": "D:\\ProyectosAndroidStudio\\CuestionarioENA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\agro.png",
+        "source": "D:\\ProyectosAndroidStudio\\CuestionarioENA\\app\\src\\main\\res\\drawable-xhdpi\\agro.png"
+    },
+    {
+        "merged": "D:\\ProyectosAndroidStudio\\CuestionarioENA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_arrow_back.png",
+        "source": "D:\\ProyectosAndroidStudio\\CuestionarioENA\\app\\src\\main\\res\\drawable-xhdpi\\ic_arrow_back.png"
+    }
+]
